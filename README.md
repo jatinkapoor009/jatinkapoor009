@@ -30,7 +30,7 @@ Hi 👋, I'm Jatin Kapoor
 
 👉 Check my repositories for detailed projects 👇
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkapoor009&layout=compact)
+https://github.com/jatinkapoor009
 
 
 ## 📫 Connect With Me
