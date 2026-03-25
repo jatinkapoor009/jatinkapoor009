@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi 👋, I'm Jatin Kapoor
 
-<!--
-**jatinkapoor009/jatinkapoor009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps Engineer | AWS | Docker | CI/CD
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Fresher passionate about DevOps & Cloud
+- 🌱 Currently learning **AWS, Kubernetes, Terraform**
+- 🔧 Skilled in **Linux, Git, Docker, Jenkins**
+- 🚀 Building real-world DevOps projects
+- 📈 Focused on improving deployment & automation
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Python, Bash
+- ⚙️ Tools: Git, GitHub, Jenkins, Terraform 
+- 🐳 DevOps: Docker, Kubernetes
+- ☁️ Cloud: AWS (EC2, S3, IAM, VPC)
+- 📊 Monitoring: CloudWatch
+  
+---
+
+## 🚀 Projects
+- 🔹 **CI/CD Pipeline using Jenkins**
+- 🔹 **Dockerized Node.js Application**
+- 🔹 **AWS 3-Tier Architecture Deployment**
+- 🔹 **Infrastructure as Code using Terraform**
+
+👉 Check my repositories for detailed projects 👇
+![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinkapoor009&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkapoor009&layout=compact)
+
+
+## 📫 Connect With Me
+- 📧 Email: Jatink9599@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jatin-kapoor1/
+
+---
+
+⭐ *Always learning, always building!*
