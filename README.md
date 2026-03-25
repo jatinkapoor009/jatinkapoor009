@@ -29,6 +29,7 @@ Hi 👋, I'm Jatin Kapoor
 - 🔹 **Infrastructure as Code using Terraform**
 
 👉 Check my repositories for detailed projects 👇
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkapoor009&layout=compact)
 
 
