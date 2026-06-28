@@ -3,7 +3,6 @@
 **DevOps Engineer** focused on cloud infrastructure, CI/CD automation, and DevSecOps practices.
 I build real-world projects using AWS, Docker, Jenkins, and Terraform — turning manual processes into reliable, automated pipelines.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +29,6 @@ I build real-world projects using AWS, Docker, Jenkins, and Terraform — turnin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
 
 ## 🚀 Featured Projects
 
@@ -51,7 +49,6 @@ Production-style 3-tier deployment (Web → App → DB) on AWS with proper netwo
 ### 🔷 [CI/CD Pipeline — Java Maven + Docker](https://github.com/jatinkapoor009/CI-CD-java-maven-docker)
 Automated build and containerization pipeline for a Java Maven application using Jenkins and Docker.
 
----
 
 ## 📊 GitHub Stats
 
@@ -61,7 +58,7 @@ Automated build and containerization pipeline for a Java Maven application using
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkapoor009&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
----
+
 
 ## 📬 Connect
 
@@ -69,6 +66,6 @@ Automated build and containerization pipeline for a Java Maven application using
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://jatinkapoor009.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Jatink9599@gmail.com)
 
----
+
 
 *"Automate everything. Monitor everything. Ship with confidence."*
